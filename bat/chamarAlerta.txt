@@ -1,0 +1,4 @@
+
+cd \audio
+start javaw -jar Alerta.jar
+exit
